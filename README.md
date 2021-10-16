@@ -1,0 +1,2 @@
+# tersUcgen
+Ters Üçgen Yapımı
